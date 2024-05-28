@@ -17,7 +17,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção dos meus proje
 Você pode visualizar a versão ao vivo do meu portfólio [aqui](https://viniciusbeserraa.github.io/Portifolio/).
 
 ## Contato
-- **Email**: viniciusbeserra1341@exemplo.com
+- **Email**: viniciusbeserra1341@gmail.com
 - **LinkedIn**: [Acessar](https://www.linkedin.com/in/vinicius-beserra-araujo)
 - **Instagram**: [Acessar](https://www.instagram.com/viniciusb1341/)
 
