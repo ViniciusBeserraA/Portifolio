@@ -53,6 +53,10 @@ export const BoxContact = styled.a`
         background-color: #37D89220;
         border: 1px solid #37D892;
     }
+
+    @media screen and (max-width: 960px){    
+        width: 100px;
+    }
 `;
 
 export const Icon = styled.svg`
@@ -63,6 +67,10 @@ export const BoxTexts = styled.a`
     font-size: 20px;
     display: flex;
     flex-direction: column;
+
+    @media screen and (max-width: 960px){    
+       display: none;
+    }
 `;
 
 export const TitleContact = styled.a`
@@ -88,6 +96,10 @@ export const LinkText = styled.a`
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+
+    @media screen and (max-width: 960px){    
+        padding: 20px;
+    }
 `;
 
 export const BoxCV = styled.a`
@@ -138,6 +150,10 @@ export const ContainerSocialMedias = styled.div`
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(0px, 1fr));
     width: 200px;
+
+    @media screen and (max-width: 960px){  
+        display: none;
+    }
 `;
 
 export const SocialMedia = styled.a`
